@@ -2,7 +2,9 @@ require 'yaml'
 
 RSpec.configure do |config|
 
-
+def new_hash
+  hash = Hash.new()
+end
  
  
  def pioneer
