@@ -2,10 +2,10 @@ require 'yaml'
 
 RSpec.configure do |config|
 
-  #
- def my_hash
-   dawn = {"name" => "Dawn",}
-   return dawn
+new_hash = {}
+ #def my_hash
+ #  dawn = {"name" => "Dawn",}
+ #  return dawn
  end
  
  def pioneer
