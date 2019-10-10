@@ -6,7 +6,7 @@ new_hash = {}
  #def my_hash
  #  dawn = {"name" => "Dawn",}
  #  return dawn
- end
+ 
  
  def pioneer
    return {:name => 'Grace Hopper'}
