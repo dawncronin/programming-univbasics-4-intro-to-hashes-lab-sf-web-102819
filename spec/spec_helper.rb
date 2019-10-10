@@ -6,7 +6,8 @@ RSpec.configure do |config|
     return new_hash = {}
   end
  def my_hash
-   return dawn = {:name => "Dawn",}
+   dawn = {"name" => "Dawn",}
+   return dawn
  end
  
  def pioneer
