@@ -4,7 +4,6 @@ RSpec.configure do |config|
 
   def new_hash
     return new_hash = {}
-    # raise "replace underscore with code"
   end
  def my_hash
    return {:name => "Dawn"}
